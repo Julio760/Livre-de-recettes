@@ -1,3 +1,5 @@
+# Livre de recettes
+
 ## Crêpes du chef
 
 ![Crèpe qui donne faim.](Images/crepes.png "Crèpes.")
@@ -54,11 +56,11 @@
 
 ![Aperçu du gâteau.](Images/pudding.png "Aperçu du gâteau.")
 
-# LE TRICERATOPOULET : #
+## LE TRICERATOPOULET : #
 
-![image de triceratops](/triceratops.jpg "Il est bo hein")
+![image de triceratops](Images/triceratops.jpg "Il est bo hein")
 
-## Ingrédients : ##
+### Ingrédients : ##
 
 * Poulet bleu des montagnes (300 g)
 
@@ -70,7 +72,7 @@
 
 * 2 œufs de tricératops
 
-##  Préparation: ##
+###  Préparation: ##
 
 * Pour cuire les œufs de tricératops il vous faut un four à pizza que vous préchauffez pendant 1h afin d’atteindre les 400°C. Faites cuire les œufs pendant 2 jours et 2 nuits.
 
@@ -84,35 +86,35 @@
 
 * Vous n'aurez plus qu'à déguster !
 
-# Recette de buche de noël au chocolat
+## Recette de buche de noël au chocolat
 
-## Ingrédients :
+### Ingrédients :
 
-### Pour le biscuit :
+#### Pour le biscuit :
 
 * 4 œufs
 * 70 g farine
 * 1 càc de levure chimique
 * 50 g sirop d’agave
 
-### La garniture :
+#### La garniture :
 
 * 120 g chocolat noir
 * 180 g crème de soja
 
-### Le glaçage : 
+#### Le glaçage : 
 
 * 60 chocolat noir
 * 2 càs purée de noisette
 * 120 g crème de soja
 
-## Etapes de préparation
+### Etapes de préparation
 
-### La garniture :
+#### La garniture :
 
 * Faite fondre la crème de soja dans une casserole puis ajouter le chocolat noir jusqu’à ce que celui-ci fonde.
 
-### Le biscuit :
+#### Le biscuit :
 
 * Séparer les blancs des jaunes d’œufs. Monter les blancs en neige.
 * Mélanger les jaunes d’œufs avec le sirop d’agave, la levure chimique et la farine jusqu’à obtenir une préparation homogène.
@@ -120,8 +122,10 @@
 * Verser la préparation sur une feuille de papier cuisson sur une plaque du four.
 * Enfourner pendant 13 min, puis à la sortie du four décoller la génoise du papier cuisson.
 
-### Assemblage et glaçage :
+#### Assemblage et glaçage :
 
 * Verser la garniture sur le rectangle de génoise, puis rouler la buche dans le sens de la largeur. Réserver au réfrigérateur pendant au moins 3 heures.
 * Pour réaliser le glaçage, faite chauffer la crème de soja dans une casserole. Lorsque celle-ci est chaude, ajouter le chocolat en morceaux. Enfin ajouter la purée de noisette, et bien mélanger la préparation.
 * Placer la buche sur une grille, puis verser le glaçage dessus. Réserver au réfrigérateur pendant au moins 2 heures avant de servir.
+
+![image de buche](Images/buche.jpg "buche")
