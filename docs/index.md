@@ -27,7 +27,9 @@
 -   Aiguiser vos papilles et passer à la dégustation.
 
 ## Pudding à l’arsenic
+
 ![Aperçu du gâteau.](Images/pudding.png "Aperçu du gâteau.")
+
 ### Ingrédients :
 -       3 cuillères à soupe de sang de lézard
 -       2g de fruit confit
