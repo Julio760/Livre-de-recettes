@@ -28,7 +28,7 @@
 
 ## Pudding à l’arsenic
 
-![Aperçu du gâteau.](Images/pudding.png "Aperçu du gâteau.")
+![Aperçu du gâteau.](Images/pudding.PNG "Aperçu du gâteau.")
 
 ### Ingrédients :
 -       3 cuillères à soupe de sang de lézard
