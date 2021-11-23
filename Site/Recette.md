@@ -14,7 +14,7 @@
  
 ### Temps de cuisson : 
  
--       Laisser cuire la pâte dans une poêle de chaque côté environ 1 minute à 120°C.
+-    Laisser cuire la pâte dans une poêle de chaque côté environ 1 minute à 120°C.
  
 ### Étapes de préparation : 
  
@@ -23,38 +23,38 @@
 -   Casser les œufs d’autruches et ajouter les à la préparation.
 -   Verser les 2 verres de lait de kangourou puis le verre de jus de chaussette ainsi que la dose de vaccin Pfizer.
 -   Prendre un fouet homogénéiser la solution afin d’obtenir une pâte onctueuse sans grumeau.
--       Passer à la cuisson : Laisser cuire la pâte dans une poêle de chaque côté environ 1 minute à 120°C.
+-    Passer à la cuisson : Laisser cuire la pâte dans une poêle de chaque côté environ 1 minute à 120°C.
 -   Aiguiser vos papilles et passer à la dégustation.
 
 ## Pudding à l’arsenic
+![Aperçu du gâteau.](Images/pudding.png "Aperçu du gâteau.")
 ### Ingrédients :
-* 3 cuillères à soupe de sang de lézard
-* 2g de fruit confit
-* 2 cuillère à soupe de vert de gris
-* 3 quartier d’orange
-* 5g d’arsenic
-* 1 verre de 33cl de pétrole
-* 5mg de mort au rat
-* 5 goutte de venin de cobra
-* 9ml de vitriole
+-       3 cuillères à soupe de sang de lézard
+-       2g de fruit confit
+-       2 cuillère à soupe de vert de gris
+-       3 quartier d’orange
+-       5g d’arsenic
+-       1 verre de 33cl de pétrole
+-       5mg de mort au rat
+-       5 goutte de venin de cobra
+-       9ml de vitriole
 
 ### Temps de cuisson :
 * 30 min à 180°C
 
 ### Etapes de préparation
-1. Dans un grand plat versait du sang de lézard
-2. Dans un plat à part mélanger les fruit confit dans du vert de gris
-3. Presser 3 quartier d’orange
-4. Mélanger l’arsenic puis ajouter le contenu du second plat
-5. Faire cuire à la casserole le verre de pétrole
-6. Ajouter la mort au rat puis le venin de cobra
-7. Ajouter le pétrole
-8. Laisser reposer 15 min
-9. Lorsque la pâte redevient molle ajoutez le vitriole
-10. Placer votre pudding au four pendant 30min
-11. Démouler votre plat, le gâteau est prêt 
+* Dans un grand plat versait du sang de lézard
+* Dans un plat à part mélanger les fruit confit dans du vert de gris
+* Presser 3 quartier d’orange
+* Mélanger l’arsenic puis ajouter le contenu du second plat
+* Faire cuire à la casserole le verre de pétrole
+* Ajouter la mort au rat puis le venin de cobra
+* Ajouter le pétrole
+* Laisser reposer 15 min
+* Lorsque la pâte redevient molle ajoutez le vitriole
+* Placer votre pudding au four pendant 30min
+* Démouler votre plat, le gâteau est prêt 
 
-![Aperçu du gâteau.](Images/pudding.png "Aperçu du gâteau.")
 
 ## LE TRICERATOPOULET : #
 
@@ -62,15 +62,18 @@
 
 ### Ingrédients : ##
 
-* Poulet bleu des montagnes (300 g)
+-       Poulet bleu des montagnes (300 g)
 
-* Riz des îles Galapagos (400 g)
+-       Riz des îles Galapagos (400 g)
 
-* Tomates noires de Madagascar (100g)
+-       Tomates noires de Madagascar (100g)
 
-* Ail et persil frais (30g)
+-       Ail et persil frais (30g)
 
-* 2 œufs de tricératops
+-       2 œufs de tricératops
+
+### Temps de cuisson :
+* 12min à 2000°C
 
 ###  Préparation: ##
 
@@ -88,25 +91,30 @@
 
 ## Recette de buche de noël au chocolat
 
+![image de buche](Images/buche.jpg "buche")
+
 ### Ingrédients :
 
 #### Pour le biscuit :
 
-* 4 œufs
-* 70 g farine
-* 1 càc de levure chimique
-* 50 g sirop d’agave
+-       4 œufs
+-       70 g farine
+-       1 cuillere à soupe de levure chimique
+-       50 g sirop d’agave
 
 #### La garniture :
 
-* 120 g chocolat noir
-* 180 g crème de soja
+-       120 g chocolat noir
+-       180 g crème de soja
 
 #### Le glaçage : 
 
-* 60 chocolat noir
-* 2 càs purée de noisette
-* 120 g crème de soja
+-       60 chocolat noir
+-       2 càs purée de noisette
+-       120 g crème de soja
+
+### Temps de cuisson :
+* 13 min à 160°C
 
 ### Etapes de préparation
 
@@ -128,4 +136,3 @@
 * Pour réaliser le glaçage, faite chauffer la crème de soja dans une casserole. Lorsque celle-ci est chaude, ajouter le chocolat en morceaux. Enfin ajouter la purée de noisette, et bien mélanger la préparation.
 * Placer la buche sur une grille, puis verser le glaçage dessus. Réserver au réfrigérateur pendant au moins 2 heures avant de servir.
 
-![image de buche](Images/buche.jpg "buche")
