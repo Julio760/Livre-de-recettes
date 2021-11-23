@@ -1,6 +1,6 @@
 ## Crêpes du chef
 
-![Crèpes](/Images/crèpes.jpeg "Crèpes")
+![Crèpe qui donne faim.](Images/crepes.png "Crèpes.")
 
 ### Ingrédients :
 -       2 œufs d’autruche.
